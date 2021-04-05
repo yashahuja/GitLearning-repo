@@ -6,6 +6,10 @@ public class Main {
         System.out.println("hello world!");
         System.out.println("hello Universe!!!!!!!!!!!!!!!!!!");
         System.out.println("trying to learn git");
+
+        System.out.println("hello world!");
+        System.out.println("hello Universe!!!!!!!!!!!!!!!!!!");
+        System.out.println("trying to learn git");
     }
 
 }
